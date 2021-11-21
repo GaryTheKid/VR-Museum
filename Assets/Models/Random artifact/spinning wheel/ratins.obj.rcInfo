@@ -1,0 +1,21 @@
+<Model globalCoordinateSystem="+proj=geocent +ellps=WGS84 +no_defs" globalCoordinateSystemName="local:1 - Euclidean"
+   exportCoordinateSystemType="0">
+  <transformToModel>0.998044692034862 0.0622527125170513 0.00559431862148546 -0 -0.0625035609214822 0.994039045727761 0.0893289773112341 0 -1.88156896866954e-010 -0.0895039851239951 0.995986466892056 0 0 0 -0 1</transformToModel>
+  <Header magic="5786959" version="1"/>
+</Model>
+<ModelExport exportBinary="1" exportInfoFile="1" exportVertices="1" exportVertexColors="0"
+   exportVertexNormals="0" exportTriangles="1" exportTexturing="1" meshColor="4294967295"
+   tileType="0" exportTextureAlpha="0" exportToOneTexture="0" oneTextureMaxSide="8192"
+   oneTextureUsePow2TexSide="1" exportCoordinateSystemType="0" settingsAnchor="0 0 0"
+   settingsScalex="1" settingsScaley="1" settingsScalez="1" texturesFileType="jpg"
+   formatAndVersionUID="obj 000 " exportModelByParts="0" exportRandomPartColor="0"
+   exportCameras="0" exportCamerasAsModelPart="0" numberAsciiFormatting="%.16e">
+  <Header magic="5786949" version="1"/>
+</ModelExport>
+<CalibrationExportSettings undistortImagesWicFormat="{1B7CFAF4-713F-473C-BBCD-6137425FAEAF}"
+   undistortImagesWicPixlFormat="{6FDDC324-4E03-4BFE-B185-3D77768DC90F}"
+   undistortDownscaleFactor="0" undistortNamingConvention="0" undistFitMode="0"
+   undistResMode="0" undistPrincipalMode="0" undistCutOut="0" undistMaxPixels="0"
+   undistBackColor="0" undistortCustomWidth="0" undistortCustomHeight="0"
+   undistortCalibration="0" undistortImagesExtension="png" undistortImageNameSuffix=""
+   exportUndistorted="0" exportDisabled="0"/>
