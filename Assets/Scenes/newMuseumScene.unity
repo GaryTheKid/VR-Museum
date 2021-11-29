@@ -100,7 +100,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: a85062eebbc461249babc0c0db04bbd4,
     type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 06ebbb2b7eef3584d9fc9d4dfe6cc095,
+  m_LightingSettings: {fileID: 4890085278179872738, guid: eac170111e8eff043905b97dba3c4f3a,
     type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -8106,7 +8106,7 @@ ReflectionProbe:
   m_Enabled: 1
   serializedVersion: 2
   m_Type: 0
-  m_Mode: 1
+  m_Mode: 2
   m_RefreshMode: 2
   m_TimeSlicingMode: 0
   m_Resolution: 1024
