@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/RayFire.meta
 guid: 4209f50d0971bad479cc4c421887e3c9
+=======
+guid: e1a0b5b764f448143928334478f7034b
+>>>>>>> Stashed changes:Assets/KriptoFX.meta
+=======
+guid: 4209f50d0971bad479cc4c421887e3c9
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

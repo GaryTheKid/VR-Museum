@@ -27,7 +27,7 @@ public class ArtifactController : MonoBehaviour
             menuColor = new Color(menuColor.r, menuColor.b, menuColor.g, menuColor.a + Time.deltaTime);
             menu.GetComponent<MeshRenderer>().material.color = menuColor;
             yield return new WaitForEndOfFrame();
-        } 
+        }
     }
 
     IEnumerator HideMenu_Coroutine()

@@ -1,7 +1,18 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/RayFire/Plugins/Windows/x86_x64.meta
 guid: 695177e08b74adf44b1bcf180d5ea428
 folderAsset: yes
 DefaultImporter:
+=======
+guid: 78322c7f82657514ebe48203160e3f39
+NativeFormatImporter:
+>>>>>>> Stashed changes:Assets/KriptoFX/WaterSystem/Demo/Resources/DiffusionProfiles/Foliage.asset.meta
+=======
+guid: 695177e08b74adf44b1bcf180d5ea428
+folderAsset: yes
+DefaultImporter:
+>>>>>>> Stashed changes
   externalObjects: {}
   userData: 
   assetBundleName: 
